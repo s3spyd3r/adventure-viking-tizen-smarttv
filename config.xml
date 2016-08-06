@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://rodriguesfilipe.net/AdventureViking" version="1.0.0" height="1080" width="1920" viewmodes="maximized">
+    <tizen:application id="htnQCcRUwO.AdventureViking" package="htnQCcRUwO" required_version="2.2"/>
+    <author email="rodrigues.filipe@live.com.pt">Filipe Rodrigues</author>
+    <content src="index.html"/>
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920"/>
+    <feature name="http://www.samsungdforum.com/feature/Mouse"/>
+    <icon src="icon.png" height="170" width="170"/>
+    <name xml:lang="en-gb">Adventure Viking</name>
+    <name>Adventure Viking</name>
+    <tizen:privilege name="http://tizen.org/privilege/application.launch"/>
+    <tizen:privilege name="http://tizen.org/privilege/content.read"/>
+    <tizen:privilege name="http://tizen.org/privilege/content.write"/>
+    <tizen:privilege name="http://tizen.org/privilege/filesystem.read"/>
+    <tizen:privilege name="http://tizen.org/privilege/filesystem.write"/>
+    <tizen:privilege name="http://tizen.org/privilege/websetting"/>
+    <tizen:profile name="tv-samsung-public"/>
+    <tizen:setting screen-orientation="landscape" context-menu="enable" background-support="disable" encryption="disable" install-location="auto" hwkey-event="disable"/>
+</widget>
