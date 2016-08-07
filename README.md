@@ -7,7 +7,13 @@ They roll, but need your help to make it home!
 Eliminate obstacles and solve puzzles in 30 levels of medieval gravity!
 
 # App Overview
+![Main](https://i.imgsafe.org/67be1a65cc.png)
 
+![Levels](https://i.imgsafe.org/67cf16dd74.png)
+
+![Game](https://i.imgsafe.org/67d80f2ec2.png)
+
+NOTE: Currently, only Pointer Devices controls are supported (Smart Control or Mouse).
 
 # How to Run
 * Clone this repository to your desktop
