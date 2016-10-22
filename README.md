@@ -7,11 +7,11 @@ They roll, but need your help to make it home!
 Eliminate obstacles and solve puzzles in 30 levels of medieval gravity!
 
 # App Overview
-![Main](http://www.rodriguesfilipe.net/img/tz2.png)
+![Main](http://www.rodriguesfilipe.net/img/tz2.jpg)
 
-![Levels](http://www.rodriguesfilipe.net/img/tz3.png)
+![Levels](http://www.rodriguesfilipe.net/img/tz3.jpg)
 
-![Game](http://www.rodriguesfilipe.net/img/tz4.png)
+![Game](http://www.rodriguesfilipe.net/img/tz4.jpg)
 
 NOTE: Currently, only Pointer Devices controls are supported (Smart Control or Mouse).
 
